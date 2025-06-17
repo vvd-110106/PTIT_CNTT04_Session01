@@ -31,3 +31,5 @@ int main() {
     printf("Mang co phan tu xuat hien nhieu nhat la: %d", checkNum);
     return 0;
 }
+// Do phuc tap thoi gian O(n^2)
+// Do phuc tap khong gian O(n)
